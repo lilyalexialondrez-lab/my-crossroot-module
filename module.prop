@@ -1,0 +1,7 @@
+id=my.crossroot.module
+name=My Cross-Root Module
+version=1.0.0
+versionCode=100
+author=Lily Alondrez
+description=Cross-compatible module for Magisk and KernelSU with OTA support.
+updateJson=https://raw.githubusercontent.com/lilyalexialondrez-lab/my-crossroot-module/main/update.json
